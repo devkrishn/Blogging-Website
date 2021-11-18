@@ -1,0 +1,39 @@
+/*   ----------------  Design code for scribbler logo ---------------   */
+.logo{
+	font-family: 'satisfy', cursive;
+	font-size: 50px;
+	color:  #FF8C00;
+	margin: 10px 10px 10px 10px;
+}
+.topbuttons{
+	width: 80px;
+	padding: 10px;
+	float: right;
+	cursor: pointer;
+	font-weight: 300;
+	font-size: 100%;
+	background-color: #DC143C;
+	color: white;
+	margin: 10px 10px 0px 0px;
+	font-family: sans-serif;
+}
+/*   ----------------  Design code for title below scribbler ---------------   */
+.belowtext{
+	font-family: 'satisfy',cursive;
+	margin-top: 0;
+	color: white;
+	margin: 0px 0px 0px 15px;
+}
+/*   ----------------  Design code for create and all post button ---------------   */
+.midbuttons{
+	background-color: #66CDAA;
+	color: black;
+	padding: 10px;
+	font-weight: bold;
+	cursor: pointer;
+}
+.postb{
+	position: fixed;
+	top: 48%;
+	left: 44%;
+}
